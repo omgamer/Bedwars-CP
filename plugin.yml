@@ -1,0 +1,15 @@
+name: "CP_Bedwars"
+description: "Bedwars Plugin for CavePlex server"
+version: 1.0
+api: 
+- 1.14.0
+- 2.0.0
+author: OM GaminG
+main: CavePlex\Bedwars
+commands:
+    Bedwars:
+        description: Bedwars Main Command
+        aliases: [BW]
+    Start:
+        description: Bedwars Forcestart Command
+ 
